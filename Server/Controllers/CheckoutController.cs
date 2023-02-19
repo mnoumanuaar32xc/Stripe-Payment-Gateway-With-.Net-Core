@@ -112,6 +112,8 @@ namespace Server.Controllers
             var total = session.AmountTotal.Value;
             var customerEmail = session.CustomerDetails.Email;
 
+
+
             return Redirect(s_wasmClientURL + "success");
         }
     }
