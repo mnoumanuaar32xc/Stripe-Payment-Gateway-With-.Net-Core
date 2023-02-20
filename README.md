@@ -4,3 +4,6 @@ Stripe is an easy to use payment gateway that takes the hassle out of credit car
 
 
 I Used Web API .Net Core, Blazor WebAssembly App , Stripe Payment Gateway
+
+
+Before Download you need to create a account in Stripe (https://dashboard.stripe.com/register) and get the Published key and Secrt key which are necessary for Checkout Payment.
